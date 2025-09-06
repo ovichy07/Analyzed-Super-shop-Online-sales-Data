@@ -1,7 +1,6 @@
 # Shwapno-dashboard
 ## Recommended Structure and Order
 ### 1.	🛒 Shwapno Online Sales Dashboard (Power BI + PostgreSQL + Excel)
-[Dashboard Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffuturestartup.com%2F2017%2F11%2F04%2Finside-shwapnos-bold-plan-become-best-largest-omnichannel-retail-brand-bangladesh%2F&psig=AOvVaw0jTR82RrvRCGasdQvujzLj&ust=1757226171857000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCW6OW_w48DFQAAAAAdAAAAABAE)
 
 This project showcases an interactive Online Sales Analysis Dashboard for Shwapno Super Shop, developed using Power BI, PostgreSQL, and Excel. The dashboard highlights key metrics such as revenue, profit, order trends, customer segmentation, product categories, and payment modes. It enables clear visualization of online sales performance and supports data-driven business insights.
 
