@@ -69,5 +69,4 @@ To provide an interactive, data-driven dashboard that:<br>
     • Operational Efficiency: Payment mode insights help evaluate customer preferences and streamline transactions.<br>
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - !
-Example: ![Dashboard Preview](https://github.com/ovichy07/Analyzed-Super-shop-Online-sales-Data/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/ovichy07/Analyzed-Super-shop-Online-sales-Data/blob/main/Dashboard.png)
